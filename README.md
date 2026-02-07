@@ -17,6 +17,10 @@ Building scalable, high-performance web applications with a strong focus on clea
 
 ---
 
+💼 Open to Frontend / Angular opportunities (Remote, Hybrid, or On-site)
+
+---
+
 ## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,git,npm" />
@@ -71,19 +75,23 @@ Building scalable, high-performance web applications with a strong focus on clea
 #### 🔹 Waqfy  
 Enterprise Waqf Management Platform  
 🔗 https://waqfy.sa/  
-- High-performance Angular UI for large datasets
-- Admin Control Panel using MVC architecture
-- Multilingual support (Arabic & English)
-- RESTful API integration
+
+- Developed high-performance Angular UI for large datasets
+- Built Admin Control Panel using MVC architecture
+- Implemented multilingual support (Arabic & English)
+- Integrated RESTful APIs for accurate and real-time data handling
+- Redesigned the platform UI in alignment with **Saudi DGA (Digital Government Authority) design guidelines**
 
 ---
 
 #### 🔹 Ministry of Hajj & Umrah Platform  
 Official Government Platform  
 🔗 https://www.haj.gov.sa/  
-- Contributed to enterprise frontend modules
-- Focused on accessibility, performance, and UI consistency
-- Responsive and cross-browser compatible layouts
+
+- Contributed to enterprise frontend modules within a large-scale government platform
+- Implemented UI updates aligned with **Saudi DGA design system and accessibility standards**
+- Focused on performance, accessibility, and UI consistency
+- Delivered responsive and cross-browser compatible layouts
 
 ---
 
@@ -101,7 +109,7 @@ Official Government Platform
 Angular-based **E-commerce Platform**  
 🔗 https://github.com/muhammadabdelaalr/Timezone  
 
-- Built after completing Angular learning phase
+- Built as a hands-on project to apply Angular concepts in a real-world e-commerce scenario
 - Implemented product listings, cart, orders, and reviews
 - Added **Dark / Light mode** and **multilingual support**
 - Focused on clean structure, reusability, and UX
